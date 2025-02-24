@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Angie Afifi - Actriz</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
+        header { background: #333; color: white; padding: 20px; }
+        .section { padding: 40px; }
+        .gallery img { width: 200px; margin: 10px; }
+        footer { background: #222; color: white; padding: 10px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Angie Afifi</h1>
+        <p>Currículum de actriz</p>
+    </header>
+    
+    <section class="section">
+        <h2>Breve descripción</h2>
+        <p>Angie Afifi es una actriz apasionada y versátil con experiencia tanto a nivel nacional como internacional. Desde sus inicios en el teatro infantil a los seis años, ha recorrido un camino artístico en el que la sensibilidad interpretativa y la conexión profunda con sus personajes ocupan un lugar esencial. Ha participado en obras como "Caimán" en el Teatro Fontova y "Migraaaants" en el Trap Door Theater, asumiendo roles que han enriquecido su crecimiento artístico. Su formación en la Escuela de Actores de Teatro y Cine "Factor" y la Escuela del Nuevo Teatro de Moscú ha contribuido significativamente a su desarrollo creativo. Políglota, actúa en ruso, inglés, español y catalán, lo que le brinda la oportunidad de acercarse a públicos de diferentes culturas. Comprometida y perseverante, Angie afronta cada papel con dedicación y amor por su oficio.</p>
+    </section>
+    
+    <section class="section gallery">
+        <h2>Book de fotos</h2>
+        <img src="foto1.jpg.jpg" alt="Foto 1">
+        <img src="foto2.jpg.jpg" alt="Foto 2">
+        <img src="foto3.jpg.jpg" alt="Foto 3">
+        <img src="foto4.jpg.jpg" alt="Foto 4">
+        <img src="foto5.jpg.jpg" alt="Foto 5">
+        <img src="foto6.jpg.jpg" alt="Foto 6">
+        <img src="foto7.jpg.jpg" alt="Foto 7">
+    </section>
+    
+    <section class="section">
+        <h2>Videobook</h2>
+        <iframe width="560" height="315" 
+src="https://www.youtube.com/embed/ssyPCS4y6HM?rel=0" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+    
+    <section class="section">
+        <h2>Experiencia</h2>
+        <p><strong>Teatro Fontova (2016 - 2017) – Barcelona</strong></p>
+        <p>“Parada discrecional”: Personaje secundario. Idioma: Catalán</p>
+        <p>“Amor de don Perlimplín”: Personaje secundario. Idioma: Catalán</p>
+        <p>“Caimán”: Personaje secundario (Eva). Idioma: Catalán</p>
+        <p><strong>Eco Theater (2017) – Moscú</strong></p>
+        <p>“Reflejo sin espejo”: Protagonista (Kira). Idioma: Ruso</p>
+        <p><strong>Trap Door Theater (2019 - 2022) – Barcelona</strong></p>
+        <p>“Migraaaants”: Múltiples personajes. Idioma: Inglés</p>
+    </section>
+    
+    <section class="section">
+        <h2>Formación</h2>
+        <p>Escuela de Actores de Teatro y Cine "Factor" - Moscú, 2017-2019</p>
+        <p>Escuela del Nuevo Teatro - Moscú, 2022</p>
+    </section>
+    
+    <section class="section">
+        <h2>Idiomas</h2>
+        <p>ESPAÑOL (alto) | CATALÁN (alto) | INGLÉS (alto) | FRANCÉS (básico) | RUSO (lengua materna)</p>
+    </section>
+    
+    <section class="section">
+        <h2>Contacto</h2>
+        <p>Teléfono: 657440699</p>
+        <p>Email: <a href="mailto:angievasuta@gmail.com">angievasuta@gmail.com</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Angie Afifi. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
